@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tdl": "^8.0.1",
+    "telegram": "^2.26.2"
+  }
+}
