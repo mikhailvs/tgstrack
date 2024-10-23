@@ -27,4 +27,5 @@ Please enter the code you received: 12345
 
 This will run until you kill it with a `Ctrl-C` or some other way, it will append lines to a file called `log.csv` which
 is a tap separated file with the following format:
-    |datetime in ms|contact phone|username|new status|
+    | datetime in ms | contact phone | username | new status |
+    | - | - | - | - |
